@@ -17,11 +17,11 @@ You can keep option `verbose = TRUE` to understand each function through multipl
 <img src="https://ahstat.github.io/images/2017-6-11-Triangle-pursuit/map/end_2pi.png" alt="Resulting elements"/>
 </center>
 
-*Mapping described in the blog post and plotted through this program.*
+*Mapping described in the blog post and plotted using this program.*
 
 <center>
 <img src="https://ahstat.github.io/images/2017-6-11-Triangle-pursuit/map/end_pi.png" alt="Resulting elements"/>
 </center>
 
-*Mapping described in the blog post and plotted through this program with additional indications.*
+*Mapping with additional indications described in the blog post and plotted using this program.*
 
